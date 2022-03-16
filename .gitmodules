@@ -1,0 +1,6 @@
+[submodule "Daily-Journal-Front-End"]
+	path = Daily-Journal-Front-End
+	url = https://github.com/thubane96/Daily-Journal-Front-End.git
+[submodule "Daily-Journal-Back-End"]
+	path = Daily-Journal-Back-End
+	url = https://github.com/thubane96/Daily-Journal-Back-End.git
